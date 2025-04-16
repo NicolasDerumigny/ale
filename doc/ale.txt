@@ -3483,6 +3483,7 @@ documented in additional help files.
     hdl-checker...........................|ale-verilog-hdl-checker|
     iverilog..............................|ale-verilog-iverilog|
     slang.................................|ale-verilog-slang|
+    verible.  ............................|ale-verilog-verible|
     verilator.............................|ale-verilog-verilator|
     vlog..................................|ale-verilog-vlog|
     xvlog.................................|ale-verilog-xvlog|

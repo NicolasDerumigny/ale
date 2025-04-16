@@ -697,6 +697,11 @@ let s:default_registry = {
 \       'suggested_filetypes': ['clojure'],
 \       'description': 'formatter and linter for clojure files',
 \   },
+\   'verible': {
+\       'function': 'ale#fixers#verible#Fix',
+\       'suggested_filetypes': ['verilog'],
+\       'description': 'formatter for Verilog files.',
+\   },
 \}
 
 " Reset the function registry to the default entries.
